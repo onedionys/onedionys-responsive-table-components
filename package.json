@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-responsive-table-components",
+  "version": "1.0.0",
+  "description": "One Dionys (Responsive Table Components) - Components that automatically adjust the layout and appearance of tables according to the width of the user's screen and device.",
+  "main": "src/responsive-table.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-responsive-table-components.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "responsive-table-components"
+  ],
+  "author": "One DIonys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-responsive-table-components/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-responsive-table-components#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
