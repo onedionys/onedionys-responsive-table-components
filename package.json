@@ -1,6 +1,6 @@
 {
   "name": "onedionys-responsive-table-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Responsive Table Components) - Components that automatically adjust the layout and appearance of tables according to the width of the user's screen and device.",
   "main": "src/responsive-table.js",
   "directories": {
